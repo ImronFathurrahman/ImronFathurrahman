@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/ImronFathurrahman/ImronFathurrahman/Assets/Banner.jpg)
+[Header image](https://raw.githubusercontent.com/ImronFathurrahman/ImronFathurrahman/Assets/Banner.jpg)
 
 Hi there 👋
 
