@@ -1,16 +1,39 @@
 ![Header image](https://raw.githubusercontent.com/ImronFathurrahman/ImronFathurrahman/master/Assets/Banner.jpg)
 
-Hi there 👋
+### Hi there 👋
+
+I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 ## 🤝 Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imron-fathurrahman/)](https://www.linkedin.com/in/imron-fathurrahman/)
 
 <a href="https://www.linkedin.com/in/imron-fathurrahman/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Imron Fathurrahman | LinkedIn" width="35px"/></a>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arv.queen_gfx/)](https://www.instagram.com/arv.queen_gfx/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imronfathurrahman9@gmail.com)](mailto:mail@imronfathurrahman9@gmail.com)
+<a href="https://instagram.com/arv.queen_gfx"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="Imron Fathurrahman| Instagram" width="35px"/></a>
+
+<a href="mailto:@imronfathurrahman9@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="Imron Fathurrahman | Gmail" width="35px"/></a>
+
+</br>
+</br>
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQLite&color=003B57)
 
 
+</br>
+
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
+
+</br>
+
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 <!--
 **ImronFathurrahman/ImronFathurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
