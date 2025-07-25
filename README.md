@@ -40,7 +40,7 @@ I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solv
 
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=ImronFathurrahman)](https://github.com/ImronFathurrahman)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImronFathurrahman&layout=compact)](https://github.com/ImronFathurrahman)
+
 
 
 
