@@ -1,8 +1,9 @@
 ![Header image](https://raw.githubusercontent.com/ImronFathurrahman/ImronFathurrahman/master/Assets/Banner.jpg)
 
+
 ### Hi there 👋
 
-I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **Imron Fathurrahman (Full stack Developer & UI/UX Designer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 <div align="center">
 <picture>
@@ -21,6 +22,8 @@ I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solv
 </picture>
 </div>
 
+
+
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/imron-fathurrahman/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Imron Fathurrahman | LinkedIn" width="35px"/></a>
@@ -32,29 +35,36 @@ I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solv
 </br>
 </br>
 
-## 💼 Technical Skills:
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+
+## 💼 Languanges:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python" />
+</a>
+
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQLite&color=003B57)
-
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=1572B6)
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=1572B6)
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+
+## 💼 Tools:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,github" />
+</a>
 
 
 </br>
+</br>
+
+
 
 <div>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
@@ -77,3 +87,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
