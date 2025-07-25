@@ -34,6 +34,17 @@ I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solv
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+
+## 📈 GitHub Stats 
+
+[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=ImronFathurrahman)](https://github.com/ImronFathurrahman)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImronFathurrahman&layout=compact)](https://github.com/ImronFathurrahman)
+
+
+
+
 <!--
 **ImronFathurrahman/ImronFathurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
