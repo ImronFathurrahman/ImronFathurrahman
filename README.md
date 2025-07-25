@@ -4,6 +4,9 @@ Hi there 👋
 
 ## 🤝 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imron-fathurrahman/)](https://www.linkedin.com/in/imron-fathurrahman/)
+
+<a href="https://www.linkedin.com/in/imron-fathurrahman/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Imron Fathurrahman | LinkedIn" width="35px"/></a>
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/arv.queen_gfx/)](https://www.instagram.com/arv.queen_gfx/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@imronfathurrahman9@gmail.com)](mailto:mail@imronfathurrahman9@gmail.com)
 
