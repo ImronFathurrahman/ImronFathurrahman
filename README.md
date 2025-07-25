@@ -50,14 +50,12 @@ I am **Imron Fathurrahman (Full stack Developer & UI/UX Designer)**. I ✨ like 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=1572B6)
 
-</br>
-
 
 
 ## 💼 Tools:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=windows,figma,vscode,github" />
 </a>
 
 
