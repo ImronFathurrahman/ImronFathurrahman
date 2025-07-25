@@ -4,6 +4,23 @@
 
 I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/imron-fathurrahman/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Imron Fathurrahman | LinkedIn" width="35px"/></a>
@@ -15,7 +32,7 @@ I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solv
 </br>
 </br>
 
-## 💼 Technical Skills
+## 💼 Technical Skills:
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -26,7 +43,7 @@ I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solv
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=CSS3&color=1572B6)
 
 
 </br>
@@ -35,6 +52,15 @@ I am **Imron Fathurrahman (Full stack Developer)**. I ✨ like ✨  problem solv
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+
+
+</br>
+
+<div>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+      <img src="https://streak-stats.demolab.com/?user=ImronFathurrahman&theme=dark" alt="Streak Stats" />
+    </a>
+</div>
 
 
 <!--
