@@ -1,5 +1,4 @@
 ![Header image](https://raw.githubusercontent.com/ImronFathurrahman/ImronFathurrahman/master/Assets/Banner.jpg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImronFathurrahman)](https://git.io/streak-stats)
 
 
 ### Hi there 👋
@@ -66,7 +65,7 @@ I am **Imron Fathurrahman (Full stack Developer & UI/UX Designer)**. I ✨ like 
 
 
 <div>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ImronFathurrahman" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ImronFathurrahman" alt="GitHub Streak" /></a>
 </div>
 
 
