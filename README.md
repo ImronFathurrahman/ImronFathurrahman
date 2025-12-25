@@ -1,4 +1,5 @@
 ![Header image](https://raw.githubusercontent.com/ImronFathurrahman/ImronFathurrahman/master/Assets/Banner.jpg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImronFathurrahman)](https://git.io/streak-stats)
 
 
 ### Hi there 👋
