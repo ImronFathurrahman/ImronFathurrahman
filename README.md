@@ -51,20 +51,17 @@ I am **Imron Fathurrahman (Full stack Developer & UI/UX Designer)**. I ✨ like 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=1572B6)
 
 
-
 ## 💼 Tools:
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,figma,vscode,github" />
 </a>
 
-
 </br>
 </br>
-
 
 <div>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ImronFathurrahman" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ImronFathurrahman&theme=algolia" alt="GitHub Streak" /></a>
 </div>
 
 
