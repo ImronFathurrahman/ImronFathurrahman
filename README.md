@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am **Imron Fathurrahman (Full stack Developer & UI/UX Designer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **Imron Fathurrahman (Web Developer & UI/UX Designer)**. I ✨ like ✨  problem solving, traveling, photography, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 <div align="center">
 <picture>
