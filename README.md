@@ -61,7 +61,7 @@ I am **Imron Fathurrahman (Web Developer & UI/UX Designer)**. I ✨ like ✨  pr
 </br>
 
 <div>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ImronFathurrahman" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ImronFathurrahman&theme=github-dark&border_radius=15" alt="GitHub Streak" /></a>
 </div>
 
 
